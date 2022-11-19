@@ -1,0 +1,66 @@
+{
+  "type": "NivelInventario",
+  "id": null,
+  "name": null,
+  "items": {
+    "100": {
+      "type": "Partida",
+      "id": "100",
+      "name": "Material Oficina",
+      "items": {
+        "110": {
+          "type": "Subpartida",
+          "id": "110",
+          "name": "Sillas",
+          "items": {
+            "111": {
+              "type": "Categoria",
+              "id": "111",
+              "name": "Silla ejecutiva clase 1",
+              "items": {},
+              "estatus": "SinEstatus"
+            },
+            "112": {
+              "type": "Categoria",
+              "id": "112",
+              "name": "Silla ejecutiva clase 2",
+              "items": {},
+              "estatus": "SinEstatus"
+            },
+            "113": {
+              "type": "Categoria",
+              "id": "113",
+              "name": "Silla secretarial clase 1",
+              "items": {},
+              "estatus": "SinEstatus"
+            },
+            "114": {
+              "type": "Categoria",
+              "id": "114",
+              "name": "Silla secretarial clase 2",
+              "items": {},
+              "estatus": "SinEstatus"
+            },
+            "115": {
+              "type": "Categoria",
+              "id": "115",
+              "name": "Silla de espera ",
+              "items": {},
+              "estatus": "SinEstatus"
+            }
+          },
+          "estatus": "SinEstatus"
+        },
+        "100": {
+          "type": "Subpartida",
+          "id": "120",
+          "name": "Mesas",
+          "items": {},
+          "estatus": "SinEstatus"
+        }
+      },
+      "estatus": "SinEstatus"
+    }
+  },
+  "estatus": "sinEstatus"
+}

@@ -1,0 +1,143 @@
+{
+  "type": "NivelInventario",
+  "id": null,
+  "name": null,
+  "items": {
+    "100": {
+      "type": "Partida",
+      "id": null,
+      "name": null,
+      "items": {
+        "110": {
+          "type": "Subpartida",
+          "id": null,
+          "name": null,
+          "items": {
+            "111": {
+              "type": "Categoria",
+              "id": "111",
+              "name": "Silla ejecutiva clase 1",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "1A12",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "3"
+            },
+            "112": {
+              "type": "Categoria",
+              "id": "112",
+              "name": "Silla ejecutiva clase 2",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "1A22",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "3"
+            },
+            "113": {
+              "type": "Categoria",
+              "id": "113",
+              "name": "Silla secretarial clase 1",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "1A32",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "3"
+            },
+            "114": {
+              "type": "Categoria",
+              "id": "114",
+              "name": "Silla secretarial clase 2",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "1A42",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "3"
+            },
+            "115": {
+              "type": "Categoria",
+              "id": "115",
+              "name": "Silla de espera ",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "1A52",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "3"
+            }
+          },
+          "estatus": "sinEstatus",
+          "ubicacion": {
+            "posicion": "SinPosicion",
+            "estatus": "SinEstatus"
+          }
+        },
+        "100": {
+          "type": "Subpartida",
+          "id": null,
+          "name": null,
+          "items": {},
+          "estatus": "sinEstatus",
+          "ubicacion": {
+            "posicion": "SinPosicion",
+            "estatus": "SinEstatus"
+          }
+        }
+      },
+      "estatus": "sinEstatus",
+      "ubicacion": {
+        "posicion": "SinPosicion",
+        "estatus": "SinEstatus"
+      }
+    },
+    "200": {
+      "type": "Partida",
+      "id": null,
+      "name": null,
+      "items": {
+        "120": {
+          "type": "Subpartida",
+          "id": null,
+          "name": null,
+          "items": {
+            "123": {
+              "type": "Categoria",
+              "id": "123",
+              "name": "Mesa secretarial clase 1",
+              "items": {},
+              "estatus": "SinEstatus",
+              "ubicacion": {
+                "posicion": "2A34",
+                "estatus": "SinEstatus"
+              },
+              "cantidad": "5"
+            }
+          },
+          "estatus": "sinEstatus",
+          "ubicacion": {
+            "posicion": "SinPosicion",
+            "estatus": "SinEstatus"
+          }
+        }
+      },
+      "estatus": "sinEstatus",
+      "ubicacion": {
+        "posicion": "SinPosicion",
+        "estatus": "SinEstatus"
+      }
+    }
+  },
+  "estatus": "sinEstatus",
+  "ubicacion": {
+    "posicion": "SinPosicion",
+    "estatus": "SinEstatus"
+  }
+}

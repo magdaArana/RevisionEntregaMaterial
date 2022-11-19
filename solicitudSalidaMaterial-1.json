@@ -1,0 +1,11 @@
+{
+  "type": "GestorSalida",
+  "id": 0,
+  "name": null,
+  "descripcion": null,
+  "cantidad": null,
+  "partida": null,
+  "subpartida": null,
+  "categoria": null,
+  "items": []
+}

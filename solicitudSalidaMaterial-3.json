@@ -1,0 +1,33 @@
+{
+  "type": "GestorSalida",
+  "id": 0,
+  "name": null,
+  "descripcion": null,
+  "cantidad": null,
+  "partida": null,
+  "subpartida": null,
+  "categoria": null,
+  "items": [
+    {
+      "type": "SSM",
+      "id": 1,
+      "name": "SM",
+      "descripcion": "Silla ejecutiva clase 1\n",
+      "cantidad": "2",
+      "partida": "100",
+      "subpartida": "110",
+      "categoria": "111",
+      "items": [],
+      "estatus": "sinEstatus",
+      "ubicacion": {
+        "posicion": "SinPosicion",
+        "estatus": "SinEstatus"
+      }
+    }
+  ],
+  "estatus": "sinEstatus",
+  "ubicacion": {
+    "posicion": "SinPosicion",
+    "estatus": "SinEstatus"
+  }
+}
